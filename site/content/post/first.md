@@ -1,5 +1,5 @@
 ---
-date: 2016-12-22T20:04:40.407+00:00
+date: 2019-07-17T19:04:40+00:00
 title: Static site development with Netlify, Hugo and Forestry
 
 ---
