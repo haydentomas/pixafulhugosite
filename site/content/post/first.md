@@ -1,5 +1,18 @@
 ---
-date: 2016-12-22T20:04:40.407Z
-title: First Post
+date: 2016-12-22T20:04:40.407+00:00
+title: Static site development with Netlify, Hugo and Forestry
+
 ---
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
+As a developer, I enjoy working with a hide variety of languages, content management systems and environments.
+
+The one thing that i have not managed to do successfully is develop a fully featured static website. I tried Gatsby briefly but as I lack in the JavaScript department it can feel a bit like taking a sledgehammer to crack a nut.
+
+So I have decided to give Hugo a try!
+
+![Hugo Static site generator](/uploads/index.png "Hugo Static site generator")
+
+Recently I began to mess around with the recreation of my portfolio website, I wasn't happy with the dismal results I was getting from using Wordpress. It has it's uses but it can quite a beast to tame.
+
+For most of my clients I will continue to use it as they have budgets that are smaller than time for hand coding will allow. I tend to use Elementor or Beaver Builder for fast development turnarounds.
+
+That being said, If I can create a good boilerplate that allows me to knock out Hugo sites quickly then in some cases I might be tempted to continue using Hugo. Also with netlify offering a pretty decent free hosting plan, what's not to love!
